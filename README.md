@@ -1,0 +1,2 @@
+# tiny
+first npm test
